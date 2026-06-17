@@ -44,12 +44,14 @@ Também atuo na formação de novos programadores e no ensino de robótica, busc
 
 ---
 
-## Estatísticas GitHub
+
+## Estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akira-Kim&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akira-Kim&layout=compact)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Akira-Kim)
 ---
 
 ## Projetos em Destaque
