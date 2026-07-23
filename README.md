@@ -22,13 +22,13 @@ Também atuo na formação de novos programadores e no ensino de robótica, busc
 
 ## 📚 Áreas de Interesse
 
-- Programação em Python
-- Simulações Computacionais
-- Matemática Aplicada
-- Sistemas Dinâmicos
-- Bilhares Simpléticos
-- Robótica Educacional
-- Desenvolvimento de Software
+- 🐍 Programação em Python
+- 📊 Simulações Computacionais
+- 🧮 Matemática Aplicada
+- 📈 Sistemas Dinâmicos
+- 🔬 Bilhares Simpléticos
+- 🤖 Robótica Educacional
+- 💻 Desenvolvimento de Software
 
 ---
 
@@ -51,21 +51,17 @@ Também atuo na formação de novos programadores e no ensino de robótica, busc
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Akira-Kim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-  />
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira-Kim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akira-Kim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akira-Kim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Akira-Kim&theme=tokyonight&hide_border=true"
-  />
+
+<img src="https://streak-stats.demolab.com?user=Akira-Kim&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
