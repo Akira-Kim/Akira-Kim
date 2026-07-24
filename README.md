@@ -1,77 +1,146 @@
-# Olá, eu sou Akira Kim 👋
+<div align="center">
 
-💻 Professora de Programação e Robótica
+# 👋 Olá, eu sou Akira Kim
 
-🎓 Técnica em Informática pelo CEFET
+### 💻 Programação • 🤖 Robótica • 🧮 Matemática • 🔬 Pesquisa
 
-🔬 Pesquisadora em Matemática e Computação
+<img src="https://komarev.com/ghpvc/?username=Akira-Kim&label=Visualizações&color=0e75b6&style=for-the-badge"/>
 
-🧮 Desenvolvedora de simuladores científicos e educacionais
-
----
-
-## 🚀 Sobre mim
-
-Sou apaixonada por tecnologia, matemática e ensino.
-
-Atualmente desenvolvo simuladores computacionais para estudo de sistemas dinâmicos e bilhares simpléticos, utilizando Python como principal ferramenta de desenvolvimento.
-
-Também atuo na formação de novos programadores e no ensino de robótica, buscando aproximar ciência, tecnologia e educação.
+</div>
 
 ---
 
-## 📚 Áreas de Interesse
+# 🚀 Sobre mim
 
-- 🐍 Programação em Python
-- 📊 Simulações Computacionais
-- 🧮 Matemática Aplicada
-- 📈 Sistemas Dinâmicos
-- 🔬 Bilhares Simpléticos
+Sou apaixonada por tecnologia, matemática e educação.
+
+Atualmente desenvolvo projetos nas áreas de:
+
+- 🐍 Python
 - 🤖 Robótica Educacional
+- 📊 Simulações Computacionais
+- 🔬 Pesquisa em Matemática
+- 🧮 Bilhares Simpléticos
 - 💻 Desenvolvimento de Software
 
----
-
-## 💻 Tecnologias
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-</p>
+Também atuo como professora de programação e robótica, buscando aproximar ciência e tecnologia do ensino.
 
 ---
 
-## 📊 GitHub Analytics
+# 💻 Tecnologias
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akira-Kim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+### Linguagens
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akira-Kim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,javascript,html,css,nodejs"/>
 
-</p>
+### Ferramentas
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,unity,arduino"/>
+
+</div>
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Akira-Kim&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akira-Kim&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Akira-Kim&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## 📌 Projetos em Destaque
+# 📌 Projetos em Destaque
 
-- 🔹 Simulador de Bilhares Simpléticos
-- 🔹 Ferramentas Educacionais para Ensino de Programação
-- 🔹 Projetos de Robótica Educacional
+## 🔬 Pesquisa
+
+- 📈 Simulador de Bilhares Simpléticos
+- 📊 Simulações Matemáticas
+- 🧮 Sistemas Dinâmicos
 
 ---
 
-> *"A computação é uma ferramenta para explorar ideias; a matemática é a linguagem que permite compreendê-las."*
+## 🤖 Robótica
+
+- Projetos Arduino
+- ESP32
+- Micro:bit
+- Unity
+
+---
+
+## 💻 Desenvolvimento
+
+- Ferramentas Educacionais
+- Jogos em Python
+- Aplicações Desktop
+- Inteligência Artificial
+
+---
+
+# 📈 Linguagens
+
+> (Gerado automaticamente pelo GitHub Metrics)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Akira-Kim/Akira-Kim/main/github-metrics.svg"/>
+
+</div>
+
+---
+
+# 🐍 Minhas Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Akira-Kim/Akira-Kim/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📫 Contato
+
+<div align="center">
+
+<a href="mailto:bruno.ram2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Akira-Kim">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> **"A computação é uma ferramenta para explorar ideias; a matemática é a linguagem que permite compreendê-las."**
+
+⭐ Obrigada pela visita!
+
+</div>
