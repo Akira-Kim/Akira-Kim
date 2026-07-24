@@ -4,45 +4,41 @@
 
 🎓 Técnica em Informática pelo CEFET
 
-🔬 Pesquisadora em Matemática e Computação
+🔬 Pesquisadora em Matemática Computacional
 
-🧮 Desenvolvedora de simuladores científicos e educacionais
-
----
-
-## 🚀 Sobre mim
-
-Sou apaixonada por tecnologia, matemática e ensino.
-
-Atualmente desenvolvo simuladores computacionais para estudo de sistemas dinâmicos e bilhares simpléticos, utilizando Python como principal ferramenta de desenvolvimento.
-
-Também atuo na formação de novos programadores e no ensino de robótica, buscando aproximar ciência, tecnologia e educação.
+🧮 Desenvolvedora de Simulações Científicas
 
 ---
 
-## 📚 Áreas de Interesse
+# 🚀 Sobre mim
 
-- 🐍 Programação em Python
-- 📊 Simulações Computacionais
-- 🧮 Matemática Aplicada
-- 📈 Sistemas Dinâmicos
-- 🔬 Bilhares Simpléticos
-- 🤖 Robótica Educacional
-- 💻 Desenvolvimento de Software
+Sou apaixonada por programação, matemática e ensino.
+
+Atualmente desenvolvo simuladores científicos, ferramentas educacionais e projetos de robótica, buscando unir tecnologia e educação.
+
+Tenho experiência em desenvolvimento de software, programação competitiva, algoritmos e aplicações matemáticas.
 
 ---
 
-## 💻 Tecnologias
+# 💻 Tecnologias
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,javascript,html,css,nodejs,git,github,vscode,linux,unity,arduino"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,nodejs,html,css,dart,flutter,git,github,vscode,linux"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akira-Kim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira-Kim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook"/>
+
+</p>
 
 <p align="center">
 
@@ -50,26 +46,52 @@ Também atuo na formação de novos programadores e no ensino de robótica, busc
 
 </p>
 
----
+<p align="center">
 
-## 📌 Projetos em Destaque
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akira-Kim&theme=tokyonight"/>
 
-- 🔹 Projeto Omega
-- 🔹 Simulador de Bilhares Simpléticos
-- 🔹 Ferramentas Educacionais para Ensino de Programação
-- 🔹 Projetos de Robótica Educacional
-- 🔹 Mine Games
+</p>
 
----
+<p align="center">
 
-## 🎯 Atualmente estudando
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akira-Kim&theme=tokyonight"/>
 
-- Flutter
-- ESP32
-- Computação Científica
-- Inteligência Artificial
-- Unity
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akira-Kim&theme=tokyonight"/>
+
+</p>
 
 ---
 
-> *"A computação é uma ferramenta para explorar ideias; a matemática é a linguagem que permite compreendê-las."*
+# 🏆 Conquistas
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Akira-Kim&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Atividade
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akira-Kim&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📌 Projetos em Destaque
+
+🧮 Simulador de Bilhares Simpléticos
+
+📊 Simulações Computacionais
+
+🤖 Robótica Educacional
+
+💻 Ferramentas para Ensino de Programação
+
+---
+
+> "A computação é uma ferramenta para explorar ideias; a matemática é a linguagem que permite compreendê-las."
