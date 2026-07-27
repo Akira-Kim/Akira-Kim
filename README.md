@@ -14,9 +14,9 @@
 
 Sou apaixonada por programação, matemática e ensino.
 
-Atualmente desenvolvo simuladores científicos, ferramentas educacionais e projetos de robótica, buscando unir tecnologia e educação.
+Atualmente desenvolvo simuladores científicos, ferramentas educacionais e projetos de robótica, buscando unir ciência, tecnologia e educação.
 
-Tenho experiência em desenvolvimento de software, programação competitiva, algoritmos e aplicações matemáticas.
+Tenho experiência em desenvolvimento de software, algoritmos, programação competitiva e simulações computacionais.
 
 ---
 
@@ -34,39 +34,23 @@ Tenho experiência em desenvolvimento de software, programação competitiva, al
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akira-Kim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira-Kim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Akira-Kim&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akira-Kim&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akira-Kim&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akira-Kim&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akira-Kim&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akira-Kim&theme=tokyonight&utcOffset=-3"/>
 
 </p>
 
----
-
-# 🏆 Conquistas
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Akira-Kim&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akira-Kim&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akira-Kim&theme=tokyonight"/>
 
 </p>
 
@@ -82,6 +66,16 @@ Tenho experiência em desenvolvimento de software, programação competitiva, al
 
 ---
 
+# 👀 Visitantes
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Akira-Kim&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+---
+
 # 📌 Projetos em Destaque
 
 🧮 Simulador de Bilhares Simpléticos
@@ -92,6 +86,8 @@ Tenho experiência em desenvolvimento de software, programação competitiva, al
 
 💻 Ferramentas para Ensino de Programação
 
+🐍 Projetos em Python
+
 ---
 
-> "A computação é uma ferramenta para explorar ideias; a matemática é a linguagem que permite compreendê-las."
+> *"A computação é uma ferramenta para explorar ideias; a matemática é a linguagem que permite compreendê-las."*
