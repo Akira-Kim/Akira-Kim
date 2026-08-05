@@ -198,6 +198,32 @@ Procuro desenvolver aplicações pensando em:
 
 ---
 
+---
+
+# 📊 Estatísticas do GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akira-Kim&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akira-Kim&theme=github_dark"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akira-Kim&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akira-Kim&theme=github_dark"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akira-Kim&theme=github_dark&utcOffset=-3"/>
+
+</p>
+
+---
+
 # 📫 Contato
 
 - **LinkedIn:** [akira-bruno](https://www.linkedin.com/in/akira-bruno)
