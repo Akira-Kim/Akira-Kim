@@ -8,12 +8,10 @@ Desenvolvendo soluções para educação, inteligência artificial e sistemas de
   <a href="https://github.com/Akira-Kim">
     <img src="https://img.shields.io/github/followers/Akira-Kim?label=Seguidores&style=for-the-badge">
   </a>
-  <a></a>
-  <a></a>
-  <a></a>
   <a href="https://github.com/Akira-Kim?tab=repositories">
     <img src="https://img.shields.io/badge/Projetos-GitHub-black?style=for-the-badge&logo=github">
   </a>
+  <p>      </p>
   <a href="https://www.linkedin.com/in/akira-bruno">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
