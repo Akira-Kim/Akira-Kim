@@ -1,49 +1,66 @@
 # Olá, eu sou Akira Kim 👋
 
-💻 Professora de Programação e Robótica
+**Professora de Programação e Robótica** · **Técnica em Informática (CEFET)**  
+Desenvolvedora de software com foco em sistemas complexos, ferramentas educacionais e inteligência artificial aplicada.
 
-🎓 Técnica em Informática pelo CEFET
-
-🔬 Pesquisadora em Matemática Computacional
-
-🧮 Desenvolvedora de Simulações Científicas
+📍 Divinópolis, MG · [LinkedIn](https://www.linkedin.com/in/akira-bruno)
 
 ---
 
-# 🚀 Sobre mim
+### Sobre mim
 
-Sou apaixonada por programação, matemática e ensino.
+Sou técnica em Informática pelo CEFET e atuo como professora de programação e robótica.  
+Meu trabalho combina desenvolvimento de software, ensino e uma forte curiosidade por sistemas que unem computação, matemática e ciência.
 
-Atualmente desenvolvo simuladores científicos, ferramentas educacionais e projetos de robótica, buscando unir ciência, tecnologia e educação.
+Atualmente construo ferramentas de uso real (não apenas exercícios), com ênfase em:
+- Arquitetura de sistemas
+- Persistência local e privacidade
+- Integração com IA de forma controlada
+- Softwares úteis para educação e produtividade pessoal
 
----
-
-## Áreas de Interesse
-
-- Programação em Python
-- Simulações Computacionais
-- Matemática Aplicada
-- Sistemas Dinâmicos
-- Bilhares Simpléticos
-- Robótica Educacional
-- Desenvolvimento de Software
+Tenho formação acadêmica em retomada (interrompeu a graduação na UFSJ no 5º período e está se preparando para retornar a uma universidade federal) e mantenho uma abordagem autodidata e orientada a projetos de longo prazo.
 
 ---
 
-## Tecnologias
+### O que estou construindo
+
+#### 🧠 [Dona Maria](https://github.com/Akira-Kim/ProjetoOmega) — Assistente Pessoal Inteligente
+Assistente em Python com conversação em português, base de conhecimento local (SQLite), memória de contexto, fallback para IA externa e preocupação explícita com privacidade e controle do usuário.  
+Faz parte de uma visão maior chamada **Projeto Omega**.
+
+#### 📅 [Gerenciador de Turmas](https://github.com/Akira-Kim/ProjetoOmega)
+Aplicativo desktop para professores (Python + Flet + SQLite): planejamento de aulas, calendário inteligente com feriados e remarcação, gestão de alunos, notas e relatórios.  
+Sistema com regras de negócio reais, pensado para uso diário.
+
+#### 🔬 Outros interesses
+Simulações científicas, robótica educacional e ferramentas para ensino de programação.
+
+---
+
+### Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Flet](https://img.shields.io/badge/Flet-0A66C2?style=for-the-badge&logo=flutter&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
+### Áreas de Interesse
 
-# 📊 GitHub Analytics
+- Arquitetura de software e sistemas complexos
+- Inteligência Artificial aplicada com controle do usuário
+- Ferramentas educacionais e produtividade para professores
+- Simulações científicas e matemática computacional
+- Robótica educacional
+- Privacidade, segurança e software ético
+
+---
+
+### GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Akira-Kim&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
@@ -57,19 +74,6 @@ Atualmente desenvolvo simuladores científicos, ferramentas educacionais e proje
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akira-Kim&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
----
-
-# 📌 Projetos em Destaque
-
-🧮 Simulador de Bilhares Simpléticos
-
-📊 Simulações Computacionais
-
-🤖 Robótica Educacional
-
-💻 Ferramentas para Ensino de Programação
-
-🐍 Projetos em Python
 
 ---
 
