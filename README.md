@@ -64,17 +64,15 @@ Simulações científicas, jogos e ferramentas educacionais (incluindo trabalhos
 
 ### GitHub Analytics
 
+### GitHub Analytics
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akira-Kim&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akira-Kim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira-Kim&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akira-Kim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira-Kim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akira-Kim&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://streak-stats.demolab.com?user=Akira-Kim&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
