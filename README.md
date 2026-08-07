@@ -2,127 +2,118 @@
 
 ### Software Engineer em formação • Professor de Programação e Robótica • Técnico em Informática (CEFET)
 
-Desenvolvendo soluções para educação, inteligência artificial e sistemas desktop.
+Construindo software para educação, inteligência artificial e sistemas desktop — com foco em problemas reais da sala de aula e em IA com privacidade.
 
 <p align="left">
   <a href="https://github.com/Akira-Kim">
-    <img src="https://img.shields.io/github/followers/Akira-Kim?label=Seguidores&style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/Akira-Kim?label=Seguidores&style=for-the-badge" alt="Seguidores">
   </a>
-  <p>      </p>
   <a href="https://github.com/Akira-Kim?tab=repositories">
-    <img src="https://img.shields.io/badge/Projetos-GitHub-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/Projetos-GitHub-black?style=for-the-badge&logo=github" alt="Projetos">
   </a>
-  <p>      </p>
   <a href="https://www.linkedin.com/in/akira-bruno">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
 
 ---
 
-# 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou Técnico em Informática pelo CEFET e atuo como professor de Programação e Robótica, ensinando lógica de programação, desenvolvimento de software e robótica educacional.
+Sou Técnico em Informática pelo CEFET e atuo como professor de Programação e Robótica, ensinando lógica, desenvolvimento e robótica educacional.
 
-Minha maior paixão é construir sistemas completos. Gosto de entender profundamente como uma solução funciona — desde a arquitetura até os detalhes de implementação.
+Minha maior paixão é construir **sistemas completos**: entender a solução da arquitetura até os detalhes de implementação. Aprendo na prática, com projetos longos e uso real.
 
-Tenho interesse especial por:
+Interesses principais:
 
-- Arquitetura de Software
-- Inteligência Artificial
-- Engenharia de Software
-- Algoritmos
-- Sistemas Desktop
-- Automação
-- Matemática Computacional
+- Arquitetura de software
+- Inteligência artificial
+- Engenharia de software
+- Algoritmos e matemática computacional
+- Sistemas desktop
+- Automação e ferramentas educacionais
 
-Acredito que bons softwares devem ser organizados, escaláveis e capazes de evoluir ao longo do tempo sem perder simplicidade.
+Acredito que bom software deve ser organizado, capaz de evoluir e respeitar a privacidade e a autonomia do usuário.
 
-Meu objetivo profissional é atuar no desenvolvimento de software, criando aplicações inteligentes que resolvam problemas reais e respeitem a privacidade e a autonomia do usuário.
-
----
-
-# 🚀 Projeto Principal — Projeto Omega
-
-O **Projeto Omega** é minha iniciativa pessoal de longo prazo.
-
-A proposta é construir um ecossistema de aplicações inteligentes capazes de compartilhar conhecimento, memória e ferramentas de produtividade.
-
-Em vez de criar programas isolados, o objetivo é desenvolver uma plataforma composta por diversos módulos que trabalham em conjunto.
-
-Atualmente fazem parte desse ecossistema:
-
-- 🧠 Dona Maria
-- 📚 Gerenciador de Turmas
-- 🗂️ Sistema de Memória
-- 📖 Base de Conhecimento
-- 🤖 Integração com IA
-- 💾 Persistência Local
+**Objetivo profissional:** atuar no desenvolvimento de software, criando aplicações inteligentes que resolvam problemas concretos.
 
 ---
 
-# 🧠 Dona Maria
+## 🚀 Projeto Omega
 
-Assistente pessoal inteligente desenvolvida em Python.
+O **Projeto Omega** é minha iniciativa pessoal de longo prazo: um ecossistema de aplicações que compartilham conhecimento, memória e produtividade — em vez de programas isolados.
 
-O projeto nasceu com o objetivo de oferecer uma IA que possa funcionar localmente, preservar a privacidade dos dados do usuário e evoluir continuamente através de uma base de conhecimento própria.
+Módulos e frentes atuais:
 
-### Principais recursos
+| Módulo | Papel |
+|--------|--------|
+| 🧠 **Dona Maria** | Assistente de IA (foco atual de desenvolvimento) |
+| 📚 **Gerenciador de Turmas** | App desktop para professores — **v1.0 concluída e em uso** |
+| 🗂️ Sistema de memória | Memória e contexto entre ferramentas |
+| 📖 Base de conhecimento | Conhecimento editável e reutilizável |
+| 🤖 Integração com IA | Camada de modelos (local / API) |
+| 💾 Persistência local | SQLite e dados sob controle do usuário |
+
+---
+
+## 📅 Gerenciador de Turmas — v1.0
+
+**Primeiro aplicativo desktop completo que desenvolvi de forma autodidata**, do zero até o uso diário nas minhas próprias aulas.
+
+Nasceu de dores reais de professor: planejar o período letivo, respeitar feriados, remarcar aulas, acompanhar alunos e registrar o que aconteceu em cada encontro.
+
+### O que a v1.0 entrega
+
+- Planejamento de turmas com aulas recorrentes (início, fim e dias da semana)
+- Calendário em visão **semana** e **mês**, com cores por status
+- Feriados oficiais (Brasil) + eventos manuais (recesso, reposição, monitoria)
+- Remarcação com empurrão automático de aulas em conflito
+- Status de aula (planejada / estudada / dada), conteúdo, links e observações
+- Alunos: cadastro, notas, coins e análise por aula + histórico na ficha do aluno
+- Relatórios de aula e relatório do aluno (modelo do professor + Gemini)
+- Backup local do banco SQLite
+- Interface em **Flet** · dados em **SQLite** · tudo offline no essencial
+
+**Status:** v1.0 estável, documentada e em produção pessoal. Polimento visual e extras ficam para versões futuras; o núcleo funcional está fechado.
+
+**Tecnologias:** Python · Flet · SQLite · holidays · integração opcional com Gemini
+
+---
+
+## 🧠 Dona Maria
+
+Assistente pessoal inteligente em Python — **foco atual de desenvolvimento** no ecossistema Omega.
+
+Objetivo: uma IA que possa rodar com privacidade, memória própria e base de conhecimento controlada pelo usuário, evoluindo com o tempo.
+
+### Recursos (em evolução)
 
 - Conversação em português
 - Memória persistente
-- Banco de dados SQLite
-- Base de conhecimento editável
-- Busca aproximada (SequenceMatcher)
-- Aprendizado incremental
+- SQLite e base de conhecimento editável
+- Busca aproximada e aprendizado incremental
 - Interface gráfica
-- Funcionamento offline
-- Integração opcional com IA externa
+- Uso offline, com integração opcional a IA externa
 - Arquitetura modular
 
-**Tecnologias:** Python • SQLite • Tkinter
+**Tecnologias:** Python · SQLite · Tkinter (e evolução da stack conforme o projeto)
 
 ---
 
-# 📅 Gerenciador de Turmas
+## 🔬 Outros projetos
 
-Sistema desktop desenvolvido para professores.
+Também exploro:
 
-Foi criado para resolver problemas reais encontrados durante minha atuação em sala de aula.
+- Simulações científicas e matemática computacional
+- Jogos e ferramentas educacionais
+- Estruturas de dados e algoritmos
+- Robótica educacional e Unity
 
-### Recursos
-
-- Planejamento de aulas
-- Calendário inteligente
-- Controle de alunos
-- Gestão de notas
-- Registro de frequência
-- Remarcação automática considerando feriados
-- Banco de dados SQLite
-- Interface desenvolvida em Flet
-
-**Tecnologias:** Python • Flet • SQLite
+Cada projeto é espaço para aprender tecnologia nova e praticar engenharia de software de ponta a ponta.
 
 ---
 
-# 🔬 Outros Projetos
-
-Além do Projeto Omega, também desenvolvo projetos relacionados a:
-
-- Simulações científicas
-- Jogos educacionais
-- Ferramentas para ensino
-- Estruturas de Dados
-- Algoritmos
-- Robótica Educacional
-- Unity
-- Matemática Computacional
-
-Cada projeto representa uma oportunidade de aprender novas tecnologias e aprofundar conceitos de engenharia de software.
-
----
-
-# 💻 Tecnologias
+## 💻 Tecnologias
 
 ### Linguagens
 
@@ -133,13 +124,10 @@ Cada projeto representa uma oportunidade de aprender novas tecnologias e aprofun
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Desktop
+### Desktop e dados
 
 ![Flet](https://img.shields.io/badge/Flet-0A66C2?style=for-the-badge)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge)
-
-### Banco de Dados
-
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Ferramentas
@@ -151,80 +139,60 @@ Cada projeto representa uma oportunidade de aprender novas tecnologias e aprofun
 
 ---
 
-# 📚 Atualmente estudando
+## 📚 Estudando agora
 
-- Engenharia de Software
-- Machine Learning
-- Inteligência Artificial
-- Arquitetura de Sistemas
-- Estruturas de Dados
-- Banco de Dados
-- Matemática para Computação
-- Desenvolvimento Desktop
+- Engenharia de software e arquitetura de sistemas
+- Inteligência artificial e machine learning
+- Estruturas de dados e banco de dados
+- Matemática para computação
+- Desenvolvimento desktop e produtos educacionais
 
 ---
 
-# 🎯 Objetivos
+## 🎯 Objetivos
 
-Nos próximos anos pretendo aprofundar conhecimentos em Engenharia de Software e Inteligência Artificial, contribuindo para projetos que envolvam:
+Aprofundar Engenharia de Software e IA em projetos que envolvam:
 
-- Sistemas inteligentes
-- IA aplicada
-- Software Desktop
-- Ferramentas educacionais
-- Arquitetura de Software
-- Machine Learning
-- Automação
+- Sistemas inteligentes e IA aplicada
+- Software desktop e ferramentas educacionais
+- Arquitetura, ML e automação
 
-Também continuo expandindo o Projeto Omega como ambiente de experimentação e desenvolvimento de soluções reais.
+O **Projeto Omega** segue como laboratório vivo: o Gerenciador mostrou que consigo fechar um produto usável; a **Dona Maria** é o próximo salto em IA e memória.
 
 ---
 
-# 💡 Filosofia de Desenvolvimento
+## 💡 Filosofia
 
-Acredito que um software não deve apenas funcionar.
+Software não deve apenas funcionar — deve ser compreensível, organizado e capaz de evoluir.
 
-Ele deve ser compreensível, organizado e capaz de evoluir.
+Priorizo:
 
-Procuro desenvolver aplicações pensando em:
-
-- Arquitetura limpa
-- Escalabilidade
-- Organização do código
-- Reutilização
-- Privacidade
-- Manutenibilidade
-- Experiência do usuário
+- Arquitetura clara e manutenibilidade
+- Escalabilidade sem complexidade desnecessária
+- Privacidade e controle dos dados pelo usuário
+- Uso real como critério de “pronto”
 
 ---
 
----
-
-# 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akira-Kim&theme=github_dark"/>
-
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akira-Kim&theme=github_dark" alt="Profile details">
 </p>
 
 <p align="center">
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akira-Kim&theme=github_dark"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akira-Kim&theme=github_dark"/>
-
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akira-Kim&theme=github_dark" alt="Repos por linguagem">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akira-Kim&theme=github_dark" alt="Linguagem mais commitada">
 </p>
 
 <p align="center">
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akira-Kim&theme=github_dark"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akira-Kim&theme=github_dark&utcOffset=-3"/>
-
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akira-Kim&theme=github_dark" alt="Stats">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akira-Kim&theme=github_dark&utcOffset=-3" alt="Horário produtivo">
 </p>
 
 ---
 
-# 📫 Contato
+## 📫 Contato
 
 - **LinkedIn:** [akira-bruno](https://www.linkedin.com/in/akira-bruno)
 - **GitHub:** [Akira-Kim](https://github.com/Akira-Kim)
