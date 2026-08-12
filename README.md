@@ -190,6 +190,47 @@ Priorizo:
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akira-Kim&theme=github_dark&utcOffset=-3" alt="Horário produtivo">
 </p>
 
+Eu incluiria **logo depois das estatísticas do GitHub**, porque cria uma distinção clara entre os números públicos do perfil e o acompanhamento pessoal de evolução.
+
+## 📈 Minha evolução
+
+> Mais do que números para o perfil, este painel existe para acompanhar minha própria consistência e evolução como programador.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥%20Dias%20programando-em%20breve-orange?style=for-the-badge" alt="Dias programando">
+  <img src="https://img.shields.io/badge/📅%20Consistência-em%20breve-blue?style=for-the-badge" alt="Consistência">
+  <img src="https://img.shields.io/badge/💻%20Commits-em%20breve-green?style=for-the-badge" alt="Commits">
+</p>
+
+<p align="center">
+  <i>Este painel será atualizado automaticamente e representa minha evolução ao longo do tempo.</i>
+</p>
+
+### 📊 Consistência
+
+```text
+Dias ativos nos últimos 30 dias
+████████████████████████░░░░░░
+
+Quanto mais eu programo com frequência, maior a barra.
+```
+
+### 📅 Histórico
+
+| Período         | Dias ativos | Consistência      |
+| --------------- | ----------- | ----------------- |
+| Este mês        | —           | Em acompanhamento |
+| Últimos 30 dias | —           | Em acompanhamento |
+| Maior sequência | —           | Em acompanhamento |
+
+> 🎯 **Objetivo:** não buscar apenas mais commits, mas manter uma rotina consistente de desenvolvimento, estudo e construção de projetos.
+
+<p align="center">
+  <b>Construir todos os dias, mesmo que pouco, também é evolução.</b>
+</p>
+
+---
+
 ---
 
 ## 📫 Contato
