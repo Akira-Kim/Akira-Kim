@@ -136,15 +136,15 @@ Também exploro:
 
 ## 📈 Minha evolução
 
-> Este painel existe principalmente para acompanhar minha própria consistência e evolução como programador.
+> Este espaço existe principalmente para acompanhar minha própria consistência e evolução como programador.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥%20Dias%20programando-em%20breve-orange?style=for-the-badge" alt="Dias programando">
-  <img src="https://img.shields.io/badge/📅%20Consistência-em%20breve-blue?style=for-the-badge" alt="Consistência">
-  <img src="https://img.shields.io/badge/💻%20Commits-em%20breve-green?style=for-the-badge" alt="Commits">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akira-Kim&theme=github-dark&hide_border=true" alt="GitHub Streak">
 </p>
 
-**Objetivo:** acompanhar a frequência com que programo e observar minha evolução ao longo dos meses.
+> 🎯 **Objetivo:** manter uma rotina consistente de desenvolvimento, estudo e construção de projetos.
+
+
 
 ---
 
