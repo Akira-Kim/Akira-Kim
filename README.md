@@ -119,17 +119,37 @@ Também exploro:
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akira-Kim&theme=github_dark" alt="Profile details">
+  <img
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akira-Kim&theme=github_dark"
+    alt="Profile details"
+  >
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akira-Kim&theme=github_dark" alt="Repos por linguagem">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akira-Kim&theme=github_dark" alt="Linguagem mais commitada">
+  <img
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akira-Kim&theme=github_dark"
+    alt="Repos por linguagem"
+  >
+  <img
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akira-Kim&theme=github_dark"
+    alt="Linguagem mais commitada"
+  >
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akira-Kim&theme=github_dark" alt="Stats">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akira-Kim&theme=github_dark&utcOffset=-3" alt="Horário produtivo">
+  <img
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akira-Kim&theme=github_dark"
+    alt="Stats"
+  >
+  <img
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akira-Kim&theme=github_dark&utcOffset=-3"
+    alt="Horário produtivo"
+  >
 </p>
 
 ---
@@ -139,12 +159,13 @@ Também exploro:
 > Este espaço existe principalmente para acompanhar minha própria consistência e evolução como programador.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akira-Kim&theme=github-dark&hide_border=true" alt="GitHub Streak">
+  <img
+    src="https://streak-stats.demolab.com?user=Akira-Kim&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  >
 </p>
 
 > 🎯 **Objetivo:** manter uma rotina consistente de desenvolvimento, estudo e construção de projetos.
-
-
 
 ---
 
