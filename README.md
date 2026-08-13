@@ -1,10 +1,10 @@
 # Olá! Eu sou Akira Kim 👋
 
-### Software Engineer em formação • Professora de Programação e Robótica • Técnica em Informática (CEFET)
+### Software Engineer em formação • Professor de Programação e Robótica • Técnico em Informática (CEFET)
 
-Desenvolvo software para **problemas reais**, explorando engenharia de software, inteligência artificial, computação científica e tecnologia aplicada à educação.
+Desenvolvo projetos principalmente em **Python**, explorando software, educação, inteligência artificial, simulação e automação.
 
-Gosto de transformar uma ideia em um sistema funcional — da modelagem e arquitetura à implementação, testes e evolução do projeto.
+Gosto de entender como um problema pode ser transformado em um sistema organizado, funcional e que possa continuar evoluindo.
 
 <p align="left">
   <a href="https://github.com/Akira-Kim">
@@ -22,20 +22,23 @@ Gosto de transformar uma ideia em um sistema funcional — da modelagem e arquit
 
 ## 👨‍💻 Sobre mim
 
-Sou **Técnica em Informática pelo CEFET** e atuo como **professora de Programação e Robótica**, desenvolvendo projetos que combinam tecnologia, educação e pesquisa.
+Sou **Técnico em Informática pelo CEFET** e trabalho como professor de Programação e Robótica.
 
-Minha experiência prática me levou a desenvolver sistemas completos, passando por:
+Minha experiência com desenvolvimento vem principalmente de projetos próprios e problemas que encontrei no dia a dia.
 
-- Arquitetura e organização de software
-- Desenvolvimento de aplicações desktop
-- Bancos de dados e persistência
-- APIs e integração com serviços externos
+Tenho maior experiência com **Python** e venho estudando e utilizando outras tecnologias conforme a necessidade de cada projeto.
+
+Tenho interesse em:
+
+- Desenvolvimento de software
+- Organização e estruturação de projetos
 - Inteligência Artificial
-- Simulação e computação científica
-- Automação
-- Ferramentas educacionais
-
-Tenho interesse especial em projetos nos quais **software precisa resolver um problema concreto**, e não apenas demonstrar uma tecnologia.
+- Bancos de dados
+- Algoritmos
+- Simulação
+- Computação científica
+- Tecnologia aplicada à educação
+- Robótica
 
 ---
 
@@ -43,11 +46,11 @@ Tenho interesse especial em projetos nos quais **software precisa resolver um pr
 
 ### 📅 Gerenciador de Turmas
 
-Aplicação desktop desenvolvida para resolver problemas reais de planejamento e acompanhamento de aulas.
+Aplicação desktop desenvolvida para auxiliar no planejamento e acompanhamento das minhas próprias aulas.
 
-O sistema reúne funcionalidades como:
+O projeto começou como uma necessidade prática e evoluiu para um sistema completo, com funcionalidades como:
 
-- Gerenciamento de turmas e alunos
+- Gerenciamento de alunos e turmas
 - Calendário
 - Feriados
 - Remarcações
@@ -55,7 +58,7 @@ O sistema reúne funcionalidades como:
 - Relatórios
 - Persistência de dados
 
-Foi desenvolvido de forma autodidata e posteriormente colocado em **uso real nas minhas próprias aulas**.
+Também foi uma oportunidade para estudar na prática organização de código, separação de responsabilidades, banco de dados e evolução de uma aplicação existente.
 
 **Stack:** Python · Flet · SQLite · APIs
 
@@ -63,20 +66,13 @@ Foi desenvolvido de forma autodidata e posteriormente colocado em **uso real nas
 
 ---
 
-### 🧠 Assistente de IA e Base de Conhecimento
+### 🧠 Assistente e Base de Conhecimento
 
-Projeto experimental voltado à construção de um assistente inteligente com **memória persistente e conhecimento controlado pelo usuário**.
+Projeto experimental em Python para estudar a construção de um assistente com **memória e armazenamento local de informações**.
 
-A arquitetura explora uma combinação de:
+A aplicação utiliza banco de dados e mecanismos próprios de armazenamento e busca, podendo também utilizar APIs de modelos de IA.
 
-- Banco de dados local
-- Base de conhecimento
-- Busca de informações
-- Memória persistente
-- APIs de modelos de IA
-- Processamento local
-
-O objetivo é estudar como construir sistemas de IA que não dependam exclusivamente de serviços externos para armazenar e recuperar conhecimento.
+O foco atual está em experimentar diferentes formas de organizar conhecimento, recuperar informações e construir uma aplicação que não dependa exclusivamente de serviços externos.
 
 **Stack:** Python · SQLite · Tkinter · APIs de IA
 
@@ -86,71 +82,69 @@ O objetivo é estudar como construir sistemas de IA que não dependam exclusivam
 
 ### 🔬 Simulador de Bilhares Simpléticos
 
-Simulador computacional de **bilhares elásticos e simpléticos**, desenvolvido para explorar sistemas dinâmicos através de simulação e visualização interativa.
+Projeto de simulação matemática e física desenvolvido em Python.
 
-O projeto possui separação entre física e interface e permite trabalhar com diferentes fronteiras geométricas.
+O sistema permite visualizar bilhares elásticos e simpléticos e estudar o comportamento das trajetórias em diferentes geometrias.
 
-Inclui:
+Entre os componentes desenvolvidos estão:
 
-- Simulação de colisões
-- Círculo
-- Elipse
-- Estádio de Bunimovich
-- Polígonos
-- Espaço de fase
+- Simulação das trajetórias
+- Diferentes tipos de fronteira
+- Colisões
+- Visualização do espaço de fase
 - Mapas de calor
-- Visualização em tempo real
-- Testes da física
+- Interface gráfica
+- Testes da parte física
 
-A interface utiliza **PySide6 e Matplotlib**, enquanto a lógica física permanece independente da camada visual.
+A estrutura do projeto separa a parte de física da interface, permitindo continuar adicionando novas fronteiras e funcionalidades.
 
 **Stack:** Python · NumPy · PySide6 · Matplotlib
 
-**Origem:** projeto desenvolvido originalmente em parceria com a UFSJ e posteriormente continuado de forma independente.
-
-**Status:** 🚧 Em evolução
-
----
-
-### 🎮 No More Scrolling
-
-Projeto experimental que combina **programação, inteligência artificial, interação e narrativa**.
-
-A proposta é explorar formas de utilizar tecnologia para transformar o comportamento do usuário em uma experiência interativa, utilizando conceitos de programação e criação de experiências.
+**Origem:** projeto iniciado em parceria com a UFSJ e posteriormente continuado de forma independente.
 
 **Status:** 🚧 Em desenvolvimento
 
 ---
 
-## 🧪 Outras áreas de desenvolvimento
+### 🎮 No More Scrolling
 
-Além dos projetos principais, desenvolvo e estudo aplicações em:
+Projeto experimental que combina programação, narrativa e criação de uma experiência interativa.
 
-- 🤖 Robótica
-- 🧠 Inteligência Artificial
-- 🔬 Computação científica
-- 📐 Matemática computacional
-- 🎮 Desenvolvimento de jogos
-- 📚 Tecnologia educacional
-- ⚙️ Automação
-- 🖥️ Sistemas desktop
+É também uma forma de explorar desenvolvimento de software fora dos projetos tradicionais, utilizando programação para construir uma experiência baseada em narrativa e terror.
+
+**Status:** 🚧 Em desenvolvimento
+
+---
+
+## 🧪 Outros projetos
+
+No GitHub também mantenho experimentos e projetos relacionados a:
+
+- Programação
+- Algoritmos
+- Jogos
+- Robótica
+- Simulações
+- Educação
+- Inteligência Artificial
+
+Nem todos os projetos têm o objetivo de ser produtos completos. Alguns existem principalmente para **estudar uma ideia, testar uma tecnologia ou aprender através da prática**.
 
 ---
 
 # 💻 Tecnologias
 
-## Linguagens
+### Linguagens
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Frameworks e bibliotecas
+### Bibliotecas e ferramentas
 
 ![Flet](https://img.shields.io/badge/Flet-0A66C2?style=for-the-badge)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
@@ -159,7 +153,7 @@ Além dos projetos principais, desenvolvo e estudo aplicações em:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-## Dados, IA e ferramentas
+### Ferramentas
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -169,32 +163,16 @@ Além dos projetos principais, desenvolvo e estudo aplicações em:
 
 ---
 
-## 🧠 Áreas de interesse
+## 📚 Estudando atualmente
 
-- Engenharia e arquitetura de software
+- Engenharia de software
+- Organização e arquitetura de projetos
 - Inteligência Artificial
-- Sistemas inteligentes e agentes
-- Computação científica
-- Algoritmos e estruturas de dados
-- Matemática computacional
-- Simulação
-- Sistemas desktop
-- Automação
-- Tecnologia aplicada à educação
-- Robótica
-- Interação humano-computador
-
----
-
-## 📚 Atualmente estudando
-
-- Engenharia de software e arquitetura
-- Inteligência Artificial e sistemas inteligentes
 - Estruturas de dados e algoritmos
 - Bancos de dados
-- Matemática aplicada à computação
+- Matemática para computação
 - Computação científica
-- Desenvolvimento de sistemas escaláveis e bem estruturados
+- Desenvolvimento de aplicações
 
 ---
 
@@ -238,9 +216,11 @@ Além dos projetos principais, desenvolvo e estudo aplicações em:
 
 ## 📈 Evolução
 
-Este perfil também funciona como um registro da minha evolução como desenvolvedora.
+Uso este perfil também como um registro da minha evolução.
 
-Mais do que acumular tecnologias, meu objetivo é construir projetos progressivamente mais complexos, aprender com problemas reais e transformar esse conhecimento em software melhor.
+Grande parte dos projetos aqui nasceu de problemas reais, curiosidades ou estudos. Alguns foram concluídos, outros continuam evoluindo e alguns serviram principalmente para aprender uma tecnologia ou conceito.
+
+Meu objetivo é continuar aumentando gradualmente a complexidade dos projetos enquanto fortaleço meus fundamentos de programação e engenharia de software.
 
 <p align="center">
   <img
