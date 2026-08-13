@@ -1,8 +1,10 @@
 # Olá! Eu sou Akira Kim 👋
 
-### Software Engineer em formação • Professor de Programação e Robótica • Técnico em Informática (CEFET)
+### Software Engineer em formação • Professora de Programação e Robótica • Técnica em Informática (CEFET)
 
-Construindo software para **educação, inteligência artificial e sistemas desktop**, sempre buscando transformar problemas reais em soluções práticas.
+Desenvolvo software para **problemas reais**, explorando engenharia de software, inteligência artificial, computação científica e tecnologia aplicada à educação.
+
+Gosto de transformar uma ideia em um sistema funcional — da modelagem e arquitetura à implementação, testes e evolução do projeto.
 
 <p align="left">
   <a href="https://github.com/Akira-Kim">
@@ -20,54 +22,61 @@ Construindo software para **educação, inteligência artificial e sistemas desk
 
 ## 👨‍💻 Sobre mim
 
-Sou **Técnico em Informática pelo CEFET** e atuo como professor de Programação e Robótica.
+Sou **Técnica em Informática pelo CEFET** e atuo como **professora de Programação e Robótica**, desenvolvendo projetos que combinam tecnologia, educação e pesquisa.
 
-Gosto de construir sistemas completos, desde a arquitetura até a implementação, priorizando **organização, manutenção, uso real e evolução contínua**.
+Minha experiência prática me levou a desenvolver sistemas completos, passando por:
 
-Meus principais interesses são:
+- Arquitetura e organização de software
+- Desenvolvimento de aplicações desktop
+- Bancos de dados e persistência
+- APIs e integração com serviços externos
+- Inteligência Artificial
+- Simulação e computação científica
+- Automação
+- Ferramentas educacionais
 
-* Arquitetura e engenharia de software
-* Inteligência artificial e machine learning
-* Algoritmos e matemática computacional
-* Sistemas desktop
-* Automação e ferramentas educacionais
-
----
-
-## 🚀 Projeto Omega
-
-O **Projeto Omega** é meu laboratório pessoal de longo prazo: um ecossistema de aplicações que compartilham **conhecimento, memória e produtividade**.
-
-| Projeto                      | Descrição                                                      |
-| ---------------------------- | -------------------------------------------------------------- |
-| 🧠 **Dona Maria**            | Assistente de IA com memória e base de conhecimento            |
-| 📚 **Gerenciador de Turmas** | Sistema desktop para professores — **v1.0 concluída e em uso** |
-| 🗂️ **Sistema de memória**   | Contexto compartilhado entre ferramentas                       |
-| 📖 **Base de conhecimento**  | Conhecimento editável e reutilizável                           |
-| 🤖 **Integração com IA**     | Modelos locais e APIs externas                                 |
-| 💾 **Persistência local**    | SQLite e dados sob controle do usuário                         |
+Tenho interesse especial em projetos nos quais **software precisa resolver um problema concreto**, e não apenas demonstrar uma tecnologia.
 
 ---
 
-## 📚 Projetos em destaque
+## 🚀 Projetos em destaque
 
 ### 📅 Gerenciador de Turmas
 
-Meu primeiro aplicativo desktop completo desenvolvido de forma autodidata e colocado em uso nas minhas próprias aulas.
+Aplicação desktop desenvolvida para resolver problemas reais de planejamento e acompanhamento de aulas.
 
-Resolve problemas reais de planejamento e acompanhamento de turmas, incluindo calendário, feriados, remarcações, alunos, relatórios e histórico.
+O sistema reúne funcionalidades como:
 
-**Stack:** Python · Flet · SQLite · Gemini
+- Gerenciamento de turmas e alunos
+- Calendário
+- Feriados
+- Remarcações
+- Histórico
+- Relatórios
+- Persistência de dados
 
-**Status:** ✅ v1.0 estável e em produção pessoal
+Foi desenvolvido de forma autodidata e posteriormente colocado em **uso real nas minhas próprias aulas**.
+
+**Stack:** Python · Flet · SQLite · APIs
+
+**Status:** ✅ v1.0 estável e em uso
 
 ---
 
-### 🧠 Dona Maria
+### 🧠 Assistente de IA e Base de Conhecimento
 
-Assistente pessoal inteligente em Python e foco atual de desenvolvimento dentro do Projeto Omega.
+Projeto experimental voltado à construção de um assistente inteligente com **memória persistente e conhecimento controlado pelo usuário**.
 
-Busca combinar **IA, memória persistente e conhecimento controlado pelo usuário**, com funcionamento local sempre que possível.
+A arquitetura explora uma combinação de:
+
+- Banco de dados local
+- Base de conhecimento
+- Busca de informações
+- Memória persistente
+- APIs de modelos de IA
+- Processamento local
+
+O objetivo é estudar como construir sistemas de IA que não dependam exclusivamente de serviços externos para armazenar e recuperar conhecimento.
 
 **Stack:** Python · SQLite · Tkinter · APIs de IA
 
@@ -75,44 +84,117 @@ Busca combinar **IA, memória persistente e conhecimento controlado pelo usuári
 
 ---
 
-### 🔬 Outros projetos
+### 🔬 Simulador de Bilhares Simpléticos
 
-Também exploro:
+Simulador computacional de **bilhares elásticos e simpléticos**, desenvolvido para explorar sistemas dinâmicos através de simulação e visualização interativa.
 
-**Simulações científicas · Algoritmos · Jogos · Ferramentas educacionais · Robótica · Unity**
+O projeto possui separação entre física e interface e permite trabalhar com diferentes fronteiras geométricas.
+
+Inclui:
+
+- Simulação de colisões
+- Círculo
+- Elipse
+- Estádio de Bunimovich
+- Polígonos
+- Espaço de fase
+- Mapas de calor
+- Visualização em tempo real
+- Testes da física
+
+A interface utiliza **PySide6 e Matplotlib**, enquanto a lógica física permanece independente da camada visual.
+
+**Stack:** Python · NumPy · PySide6 · Matplotlib
+
+**Origem:** projeto desenvolvido originalmente em parceria com a UFSJ e posteriormente continuado de forma independente.
+
+**Status:** 🚧 Em evolução
 
 ---
 
-## 💻 Tecnologias
+### 🎮 No More Scrolling
 
-### Linguagens
+Projeto experimental que combina **programação, inteligência artificial, interação e narrativa**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+A proposta é explorar formas de utilizar tecnologia para transformar o comportamento do usuário em uma experiência interativa, utilizando conceitos de programação e criação de experiências.
 
-### Frameworks, dados e ferramentas
+**Status:** 🚧 Em desenvolvimento
+
+---
+
+## 🧪 Outras áreas de desenvolvimento
+
+Além dos projetos principais, desenvolvo e estudo aplicações em:
+
+- 🤖 Robótica
+- 🧠 Inteligência Artificial
+- 🔬 Computação científica
+- 📐 Matemática computacional
+- 🎮 Desenvolvimento de jogos
+- 📚 Tecnologia educacional
+- ⚙️ Automação
+- 🖥️ Sistemas desktop
+
+---
+
+# 💻 Tecnologias
+
+## Linguagens
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Frameworks e bibliotecas
 
 ![Flet](https://img.shields.io/badge/Flet-0A66C2?style=for-the-badge)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge\&logo=unity)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+## Dados, IA e ferramentas
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
-## 📚 Estudando atualmente
+## 🧠 Áreas de interesse
 
-* Engenharia de software e arquitetura
-* Inteligência artificial e machine learning
-* Estruturas de dados e bancos de dados
-* Matemática para computação
-* Desenvolvimento de sistemas e ferramentas educacionais
+- Engenharia e arquitetura de software
+- Inteligência Artificial
+- Sistemas inteligentes e agentes
+- Computação científica
+- Algoritmos e estruturas de dados
+- Matemática computacional
+- Simulação
+- Sistemas desktop
+- Automação
+- Tecnologia aplicada à educação
+- Robótica
+- Interação humano-computador
+
+---
+
+## 📚 Atualmente estudando
+
+- Engenharia de software e arquitetura
+- Inteligência Artificial e sistemas inteligentes
+- Estruturas de dados e algoritmos
+- Bancos de dados
+- Matemática aplicada à computação
+- Computação científica
+- Desenvolvimento de sistemas escaláveis e bem estruturados
 
 ---
 
@@ -143,7 +225,7 @@ Também exploro:
   <img
     height="170"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akira-Kim&theme=github_dark"
-    alt="Stats"
+    alt="GitHub Stats"
   >
   <img
     height="170"
@@ -154,9 +236,11 @@ Também exploro:
 
 ---
 
-## 📈 Minha evolução
+## 📈 Evolução
 
-> Este espaço existe principalmente para acompanhar minha própria consistência e evolução como programador.
+Este perfil também funciona como um registro da minha evolução como desenvolvedora.
+
+Mais do que acumular tecnologias, meu objetivo é construir projetos progressivamente mais complexos, aprender com problemas reais e transformar esse conhecimento em software melhor.
 
 <p align="center">
   <img
@@ -165,14 +249,12 @@ Também exploro:
   >
 </p>
 
-> 🎯 **Objetivo:** manter uma rotina consistente de desenvolvimento, estudo e construção de projetos.
-
 ---
 
 ## 📫 Contato
 
-* **LinkedIn:** [akira-bruno](https://www.linkedin.com/in/akira-bruno)
-* **GitHub:** [Akira-Kim](https://github.com/Akira-Kim)
+- **LinkedIn:** [akira-bruno](https://www.linkedin.com/in/akira-bruno)
+- **GitHub:** [Akira-Kim](https://github.com/Akira-Kim)
 
 ---
 
