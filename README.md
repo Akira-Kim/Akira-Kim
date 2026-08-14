@@ -82,27 +82,26 @@ O foco atual está em experimentar diferentes formas de organizar conhecimento, 
 
 ### 🔬 Simulador de Bilhares Simpléticos
 
-Projeto de simulação matemática e física desenvolvido em Python.
+Projeto de simulação matemática e física em Python, com visualização em tempo real de bilhares elásticos e simpléticos.
 
-O sistema permite visualizar bilhares elásticos e simpléticos e estudar o comportamento das trajetórias em diferentes geometrias.
+O sistema permite estudar trajetórias em diferentes geometrias e observar o comportamento no espaço de fase.
 
-Entre os componentes desenvolvidos estão:
+Entre o que já foi desenvolvido:
 
-- Simulação das trajetórias
-- Diferentes tipos de fronteira
-- Colisões
-- Visualização do espaço de fase
-- Mapas de calor
-- Interface gráfica
+- Simulação em tempo real das trajetórias
+- Fronteiras: círculo, elipse, estádio, polígono e formas desenhadas
+- Criação de fronteira por desenho (poligonal / mão livre) e por fórmula polar
+- Colisões elásticas e simpléticas
+- Espaço de fase com mapa de calor
+- Interface em PySide6
+- Separação entre física e interface
 - Testes da parte física
-
-A estrutura do projeto separa a parte de física da interface, permitindo continuar adicionando novas fronteiras e funcionalidades.
 
 **Stack:** Python · NumPy · PySide6 · Matplotlib
 
-**Origem:** projeto iniciado em parceria com a UFSJ e posteriormente continuado de forma independente.
+**Origem:** iniciado em parceria com a UFSJ e continuado de forma independente.
 
-**Status:** 🚧 Em desenvolvimento
+**Status:** ✅ v0.2.0 estável (em pausa)
 
 ---
 
