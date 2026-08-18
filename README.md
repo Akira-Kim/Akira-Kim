@@ -1,6 +1,6 @@
 # Olá! Eu sou Akira Kim 👋
 
-### Software Engineer em formação • Professora de Programação e Robótica • Técnica em Informática pelo CEFET
+**Software Engineer em formação** • **Professora de Programação e Robótica** • **Técnica em Informática pelo CEFET**
 
 💻 Desenvolvimento de Software  
 🔬 Computação Científica e Matemática Aplicada  
@@ -11,11 +11,11 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou **Técnica em Informática pelo CEFET** e atuo como **professora de Programação e Robótica**, trabalhando diretamente com educação e tecnologia.
+Sou **Técnica em Informática pelo CEFET** e atuo como **professora de Programação e Robótica**, unindo educação e tecnologia no dia a dia.
 
-Minha formação e meus interesses transitam entre **Computação, Matemática, Ciência e Educação**.
+Minha formação e interesses transitam entre **Computação, Matemática, Ciência e Educação**.
 
-Atualmente curso **Química na UEMG**, mantendo também meu caminho na Computação por meio de estudos, projetos de software e desenvolvimento de ferramentas científicas e educacionais.
+Atualmente curso **Química na UEMG**, mantendo o caminho na Computação por meio de estudos, projetos de software e desenvolvimento de ferramentas científicas e educacionais.
 
 Tenho experiência principalmente com **Python**, mas também trabalho e estudo outras linguagens e tecnologias conforme as necessidades dos projetos.
 
@@ -38,107 +38,83 @@ Desenvolvo e estudo projetos envolvendo:
 - Desenvolvimento de software
 - Robótica educacional
 - Ferramentas para educação
+- Desenvolvimento de jogos educacionais
 
 Meu objetivo é utilizar a computação não apenas para criar software, mas também como uma ferramenta para **explorar, visualizar e compreender problemas científicos e educacionais**.
 
 ---
 
-# 🚀 Projetos em destaque
+## 🚀 Projetos em destaque
 
-## 📅 Gerenciador de Turmas
+### 📅 Gerenciador de Turmas
 
-Aplicação desktop desenvolvida originalmente para resolver uma necessidade real do meu trabalho como professora.
+Aplicação desktop criada originalmente para resolver uma necessidade real do meu trabalho como professora. Evoluiu de uma ferramenta simples para um sistema completo de gerenciamento de aulas e turmas.
 
-O projeto evoluiu de uma ferramenta simples para um sistema completo de gerenciamento de aulas e turmas.
-
-### Funcionalidades
-
+**Funcionalidades principais**
 - Gerenciamento de alunos e turmas
-- Calendário
-- Feriados
-- Remarcações
-- Histórico
-- Relatórios
+- Calendário, feriados e remarcações
+- Histórico e relatórios
 - Persistência de dados
 - Organização de informações acadêmicas
 
-Também serviu como um laboratório prático para estudar:
+Também serviu como laboratório prático para estudar arquitetura de software, separação de responsabilidades, banco de dados e evolução de projetos.
 
-- Arquitetura de software
-- Separação de responsabilidades
-- Banco de dados
-- Organização de projetos
-- Evolução e manutenção de software
-
-**Stack:** Python · Flet · SQLite · APIs
+**Stack:** Python · Flet · SQLite · APIs  
 
 **Status:** ✅ v1.0 estável · 🚧 Em progresso
 
 ---
 
-## 🧠 Assistente e Base de Conhecimento
+### 🧠 Assistente e Base de Conhecimento
 
-Projeto experimental desenvolvido em Python para estudar a construção de sistemas capazes de armazenar, organizar e recuperar conhecimento.
+Projeto experimental em Python para estudar sistemas capazes de armazenar, organizar e recuperar conhecimento.
 
-A aplicação utiliza armazenamento local e banco de dados, podendo integrar APIs de modelos de Inteligência Artificial.
+Utiliza armazenamento local e banco de dados, com possibilidade de integração com APIs de modelos de Inteligência Artificial.
 
-O objetivo é explorar diferentes estratégias para:
-
-- Armazenamento de conhecimento
-- Recuperação de informações
+**Objetivos de estudo**
+- Armazenamento e recuperação de conhecimento
 - Memória persistente
 - Organização de dados
 - Integração com modelos de IA
-- Desenvolvimento de aplicações independentes de serviços externos
+- Aplicações independentes de serviços externos
 
-**Stack:** Python · SQLite · Tkinter · APIs de IA
+**Stack:** Python · SQLite · Tkinter · APIs de IA  
 
 **Status:** ✅ v1.0 estável · 🚧 Em progresso
 
 ---
 
-## 🔬 Simulador de Bilhares Simpléticos
+### 🔬 Simulador de Bilhares Simpléticos
 
-Projeto de simulação matemática e física desenvolvido em Python para estudar o comportamento de **bilhares elásticos e simpléticos**.
+Simulação matemática e física desenvolvida em Python para estudar o comportamento de **bilhares elásticos e simpléticos**.
 
-O projeto surgiu durante minha trajetória na UFSJ e continua sendo desenvolvido de forma independente.
+Surgiu durante minha trajetória na UFSJ e continua sendo desenvolvido de forma independente.
 
-### Recursos desenvolvidos
-
+**Recursos**
 - Simulação em tempo real de trajetórias
-- Diferentes geometrias de fronteira
-- Círculo
-- Elipse
-- Estádio
-- Polígonos
-- Fronteiras desenhadas livremente
-- Fronteiras definidas por fórmulas polares
-- Colisões elásticas
-- Colisões simpléticas
-- Espaço de fase
-- Mapas de calor
-- Visualização científica
-- Interface gráfica
-- Separação entre física e interface
-- Testes da parte física
+- Geometrias: círculo, elipse, estádio, polígonos, fronteiras livres e fórmulas polares
+- Colisões elásticas e simpléticas
+- Espaço de fase e mapas de calor
+- Visualização científica e interface gráfica
+- Separação entre física e interface + testes
 
-**Stack:** Python · NumPy · PySide6 · Matplotlib
+**Stack:** Python · NumPy · PySide6 · Matplotlib  
 
 **Status:** ✅ v0.2.0 estável · ⏸️ Em pausa
 
 ---
 
-## 🎮 No More Scrolling
+### 🎮 No More Scrolling
 
 Projeto experimental que combina programação, narrativa e desenvolvimento de uma experiência interativa.
 
-O projeto também representa meu interesse em utilizar programação para criar experiências além das aplicações tradicionais.
+Representa meu interesse em usar programação para criar experiências além das aplicações tradicionais.
 
 **Status:** 🚧 Em desenvolvimento
 
 ---
 
-# 🧪 Outros projetos
+## 🧪 Outros projetos
 
 No GitHub também mantenho projetos, experimentos e estudos relacionados a:
 
@@ -153,16 +129,27 @@ No GitHub também mantenho projetos, experimentos e estudos relacionados a:
 - 🌐 Desenvolvimento Web
 - 🗄️ Bancos de dados
 
-Nem todos os projetos têm como objetivo se tornar produtos completos.
+### 🎮 Jogos Educacionais com Construct 3
 
-Alguns existem para responder uma pergunta, testar uma ideia, estudar uma tecnologia ou simplesmente **aprender construindo**.
+Desenvolvo jogos no **Construct 3** para usar diretamente nas minhas aulas de Programação e Robótica.
+
+Os jogos são criados com foco em:
+- Ensino de lógica de programação
+- Introdução a conceitos de algoritmos
+- Experiências interativas para alunos
+- Aprendizado baseado em jogos (Game-Based Learning)
+
+Essa atividade reforça a conexão entre **desenvolvimento de jogos** e **prática educativa**, permitindo transformar conteúdos abstratos em experiências concretas e engajadoras para os estudantes.
+
+**Stack:** Construct 3 · JavaScript (eventos e scripts)
+
+**Status:** 🚧 Em desenvolvimento contínuo (uso em sala de aula)
 
 ---
 
-# 💻 Tecnologias
+## 💻 Tecnologias
 
 ### Linguagens
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -170,37 +157,33 @@ Alguns existem para responder uma pergunta, testar uma ideia, estudar uma tecnol
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Desenvolvimento
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Python e Computação Científica
-
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### Ferramentas e Tecnologias
-
+### Ferramentas e Engines
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Construct 3](https://img.shields.io/badge/Construct%203-000000?style=for-the-badge&logo=construct3&logoColor=white)
 
 ---
 
-# 📚 Estudando atualmente
+## 📚 Estudando atualmente
 
-Minha formação atualmente combina **Química, Computação e Matemática**, enquanto continuo desenvolvendo minha experiência prática em Engenharia de Software.
+Minha formação combina **Química, Computação e Matemática**, enquanto continuo desenvolvendo experiência prática em Engenharia de Software.
 
 ### Ciência
-
 - Química
 - Matemática aplicada
 - Computação científica
 - Modelagem e simulação
 
 ### Computação
-
 - Engenharia de software
 - Arquitetura e organização de projetos
 - Estruturas de dados e algoritmos
@@ -208,10 +191,11 @@ Minha formação atualmente combina **Química, Computação e Matemática**, en
 - Inteligência Artificial
 - Desenvolvimento de aplicações
 - Computação científica
+- Desenvolvimento de jogos educacionais (Construct 3)
 
 ---
 
-# 🎓 Formação
+## 🎓 Formação
 
 **🧪 Química — UEMG**  
 Graduação em andamento
@@ -224,37 +208,49 @@ Anteriormente cursei **Ciência da Computação na UFSJ**, experiência que cont
 
 ---
 
-# 👩‍🏫 Educação
+## 👩‍🏫 Educação
 
 Além do desenvolvimento de software, atuo como **professora de Programação e Robótica**.
 
-Meu trabalho com educação influencia diretamente a forma como desenvolvo software.
-
+Meu trabalho com educação influencia diretamente a forma como desenvolvo software.  
 Muitos dos meus projetos surgem de problemas reais encontrados no ensino e têm como objetivo tornar conceitos de tecnologia mais acessíveis e práticos.
+
+Também crio **jogos educacionais no Construct 3** para usar em sala de aula, tornando o aprendizado de lógica e programação mais interativo e engajador.
 
 Acredito que **ensinar também é uma forma de aprender**.
 
 ---
 
-# 📊 Estatísticas
+## 📊 Estatísticas & Acompanhamento Diário
+
+Aqui acompanho meu desenvolvimento **diário** e **mensal** de forma visual.
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akira-Kim&show_icons=true&theme=transparent&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira-Kim&layout=compact&theme=transparent&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Akira-Kim&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira-Kim&layout=compact&theme=transparent&hide_border=true" />
 </p>
+
+### 🔥 Streak Diário (contribuições consecutivas)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Akira-Kim&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+### 📈 Atividade dos últimos 31 dias
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akira-Kim&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+> O streak mostra a consistência diária.  
+> O gráfico de atividade permite comparar o ritmo do mês atual com os anteriores.
 
 ---
 
-# 📈 Evolução
+## 📈 Evolução
 
 Uso este perfil também como um registro da minha evolução.
 
-Nem todo projeto aqui representa meu nível atual de desenvolvimento.
-
-Alguns mostram onde comecei, outros mostram o que estou estudando agora e alguns representam problemas que ainda estou tentando resolver.
+Nem todo projeto aqui representa meu nível atual de desenvolvimento.  
+Alguns mostram onde comecei, outros o que estou estudando agora e alguns representam problemas que ainda estou tentando resolver.
 
 Gosto de olhar para o GitHub não apenas como um portfólio, mas como um **histórico de aprendizado construído através da prática**.
 
@@ -262,7 +258,7 @@ Meu objetivo é continuar aumentando gradualmente a complexidade dos projetos, f
 
 ---
 
-# 🌱 O que estou construindo
+## 🌱 O que estou construindo
 
 Meu objetivo profissional é continuar me desenvolvendo como **Software Engineer**, especialmente em projetos que envolvam:
 
@@ -273,12 +269,13 @@ Meu objetivo profissional é continuar me desenvolvendo como **Software Engineer
 - Automação
 - Desenvolvimento de ferramentas
 - Matemática e computação
+- Jogos educacionais
 
 Quero construir software que não seja apenas funcional, mas que também **resolva problemas reais e permita explorar ideias que seriam difíceis de observar de outra forma**.
 
 ---
 
-# 📫 Contato
+## 📫 Contato
 
 - 💼 **LinkedIn:** [akira-bruno](https://www.linkedin.com/in/akira-bruno)
 - 💻 **GitHub:** [Akira-Kim](https://github.com/Akira-Kim)
