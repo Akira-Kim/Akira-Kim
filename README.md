@@ -226,13 +226,13 @@ Acredito que **ensinar também é uma forma de aprender**.
 Aqui acompanho meu desenvolvimento **diário** e **mensal** de forma visual.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akira-Kim&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira-Kim&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=Akira-Kim&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Akira-Kim&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ### 🔥 Streak Diário (contribuições consecutivas)
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Akira-Kim&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Akira-Kim&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ### 📈 Atividade dos últimos 31 dias
@@ -242,20 +242,6 @@ Aqui acompanho meu desenvolvimento **diário** e **mensal** de forma visual.
 
 > O streak mostra a consistência diária.  
 > O gráfico de atividade permite comparar o ritmo do mês atual com os anteriores.
-
----
-
-## 📈 Evolução
-
-Uso este perfil também como um registro da minha evolução.
-
-Nem todo projeto aqui representa meu nível atual de desenvolvimento.  
-Alguns mostram onde comecei, outros o que estou estudando agora e alguns representam problemas que ainda estou tentando resolver.
-
-Gosto de olhar para o GitHub não apenas como um portfólio, mas como um **histórico de aprendizado construído através da prática**.
-
-Meu objetivo é continuar aumentando gradualmente a complexidade dos projetos, fortalecer meus fundamentos e aproximar cada vez mais **software, ciência e matemática**.
-
 ---
 
 ## 🌱 O que estou construindo
