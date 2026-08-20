@@ -49,6 +49,11 @@ Atuo na interseção de **computação, matemática, ciência e educação**, co
   <img height="140" src="https://streak-stats.demolab.com/?user=Akira-Kim&theme=dark&hide_border=true" alt="Streak" />
 </p>
 
+### Atividade dos últimos dias
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akira-Kim&theme=github-dark&hide_border=true&area=true&radius=16" alt="Activity graph" />
+</p>
+
 ---
 
 ## Formação
