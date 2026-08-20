@@ -60,7 +60,7 @@ Atuo na interseção de **computação, matemática, ciência e educação**, co
 
 - **Química** — UEMG (em andamento)  
 - **Técnico em Informática** — CEFET-MG  
-- Ciência da Computação — UFSJ (período anterior)
+- Ciência da Computação — UFSJ (interrompido)
 
 ---
 
