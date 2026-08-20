@@ -65,22 +65,24 @@ Também serviu como laboratório prático para estudar arquitetura de software, 
 
 ---
 
-### 🧠 Assistente e Base de Conhecimento
+### 🧠 Sexta-feira — Assistente Pessoal
 
-Projeto experimental em Python para estudar sistemas capazes de armazenar, organizar e recuperar conhecimento.
+Assistente em Python com base de conhecimento local, contexto de conversa e arquitetura pensada para evoluir de chatbot para assistente no espírito Jarvis (memória, raciocínio local, guia e mentor).
 
-Utiliza armazenamento local e banco de dados, com possibilidade de integração com APIs de modelos de Inteligência Artificial.
+**Sucessor do projeto experimental Dona Maria** (ProjetoOmega), com o mesmo núcleo de estudo — armazenamento local, recuperação de conhecimento e integração opcional com APIs de IA — reorganizado como produto próprio, com módulos, plano até v02 e foco em soberania dos dados.
 
-**Objetivos de estudo**
-- Armazenamento e recuperação de conhecimento
-- Memória persistente
-- Organização de dados
-- Integração com modelos de IA
-- Aplicações independentes de serviços externos
+**Objetivos de estudo / produto**
+- Armazenamento e recuperação de conhecimento (SQLite)
+- Memória e contexto de conversa
+- Raciocínio local antes de IA externa
+- Integração controlada com modelos de IA (interruptores)
+- Evolução para assistente pessoal (guia, mentor, múltiplas bases)
 
 **Stack:** Python · SQLite · Tkinter · APIs de IA  
 
-**Status:** ✅ v1.0 estável · 🚧 Em progresso
+**Repo:** [Sexta-feira](https://github.com/Akira-Kim/Sexta-feira)  
+
+**Status:** ✅ v01.00 (estrutura + base) · 🚧 Em progresso (Visão 3)
 
 ---
 
@@ -225,23 +227,31 @@ Acredito que **ensinar também é uma forma de aprender**.
 
 Aqui acompanho meu desenvolvimento **diário** e **mensal** de forma visual.
 
+<!-- Stats principais (anuraghazra) — sem PAT -->
 <p align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=Akira-Kim&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Akira-Kim&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akira-Kim&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira-Kim&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages" />
 </p>
 
 ### 🔥 Streak Diário (contribuições consecutivas)
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Akira-Kim&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=Akira-Kim&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
-### 📈 Atividade dos últimos 31 dias
+### 📈 Atividade recente
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akira-Kim&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akira-Kim&theme=github-dark&hide_border=true&area=true&radius=16" alt="GitHub Activity Graph" />
+</p>
+
+<!-- Troféus (opcional, também sem PAT) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akira-Kim&theme=darkhub&no-frame=true&column=6&margin-w=8" alt="Trophies" />
 </p>
 
 > O streak mostra a consistência diária.  
-> O gráfico de atividade permite comparar o ritmo do mês atual com os anteriores.
+> O gráfico de atividade permite comparar o ritmo do mês atual com os anteriores.  
+> Se algum card falhar, em geral é limite da API pública do GitHub — os links acima não dependem de `PAT_1` no Vercel.
+
 ---
 
 ## 🌱 O que estou construindo
@@ -249,7 +259,7 @@ Aqui acompanho meu desenvolvimento **diário** e **mensal** de forma visual.
 Meu objetivo profissional é continuar me desenvolvendo como **Software Engineer**, especialmente em projetos que envolvam:
 
 - Software científico
-- Inteligência Artificial
+- Inteligência Artificial e assistentes pessoais
 - Simulações
 - Sistemas educacionais
 - Automação
