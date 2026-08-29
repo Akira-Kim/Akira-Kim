@@ -20,7 +20,7 @@ Atuo na interseção de **computação, matemática, ciência e educação**, co
 |--------|---------|--------|
 | **[Sexta-feira](https://github.com/Akira-Kim/Sexta-feira)** | Assistente pessoal em Python (local-first, sucessor da Dona Maria) | v01 · em progresso |
 | **Gerenciador de Turmas** | App para aulas/turmas (necessidade real de professora) | v1 · estável |
-| **Bilhares Simpléticos** | Simulação científica (NumPy / PySide6) | v0.2 · pausa |
+| **Bilhares Simpléticos** | Pesquisa UFSJ: Simulação científica (NumPy / PySide6) | v0.2 · pausa |
 | **Jogos educacionais** | Construct 3 para sala de aula | contínuo |
 
 ---
