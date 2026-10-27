@@ -1,6 +1,6 @@
 # Olá! Eu sou Akira Kim 👋
 
-**Software Engineer em formação** · **Professora de Programação e Robótica** · **Técnica em Informática (CEFET)**  
+**Software Engineer em formação** · **Professor de Programação e Robótica** · **Técnico em Informática (CEFET)**  
 Estudante de **Química (UEMG)** · ex-Ciência da Computação (UFSJ)
 
 💻 Software · 🔬 Computação científica · 🤖 Educação e robótica · 🧠 IA / assistentes
