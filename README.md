@@ -1,71 +1,190 @@
-# Olá! Eu sou Akira Kim 👋
+ <!-- AKIRA KIM | GitHub Profile README -->
 
-**Software Engineer em formação** · **Professor de Programação e Robótica** · **Técnico em Informática (CEFET)**  
-Estudante de **Química (UEMG)** · ex-Ciência da Computação (UFSJ)
+<div align="center">
 
-💻 Software · 🔬 Computação científica · 🤖 Educação e robótica · 🧠 IA / assistentes
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:312E81,100:9333EA&height=230&section=header&text=AKIRA%20KIM&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPMENT%20%7C%20SCIENCE%20%7C%20TECHNOLOGY&descAlignY=60&descSize=15&animation=fadeIn" />
 
----
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Software+Developer;Programming+%26+Robotics+Instructor;Artificial+Intelligence+Enthusiast;Scientific+Computing+%26+Innovation" alt="Typing animation" />
+</a>
 
-## Sobre
+<br/>
 
-Transformo problemas reais (aula, ciência, cotidiano) em **sistemas que funcionam e podem evoluir**.  
-Atuo na interseção de **computação, matemática, ciência e educação**, com foco em Python e projetos de ponta a ponta.
+<a href="https://github.com/Akira-Kim">
+<img src="https://img.shields.io/badge/GitHub-Akira--Kim-181717?style=for-the-badge&logo=github" />
+</a>
 
----
+<a href="https://www.linkedin.com/in/akira-bruno/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
-## Projetos em destaque
-
-| Projeto | O que é | Status |
-|--------|---------|--------|
-| **[Sexta-feira](https://github.com/Akira-Kim/Sexta-feira)** | Assistente pessoal em Python (local-first, sucessor da Dona Maria) | v01 · em progresso |
-| **Gerenciador de Turmas** | App para aulas/turmas (necessidade real de professora) | v1 · estável |
-| **Bilhares Simpléticos** | Pesquisa UFSJ: Simulação científica (NumPy / PySide6) | v0.2 · pausa |
-| **Jogos educacionais** | Construct 3 para sala de aula | contínuo |
+</div>
 
 ---
 
-## Stack
+<h2 align="center">01 / ABOUT ME</h2>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+```python
+class Akira:
+    name = "Akira Kim"
+    occupation = "Software Developer"
+    location = "Brazil"
 
----
+    education = [
+        "Computer Technician — CEFET-MG",
+        "Chemistry — UEMG"
+    ]
 
-## Stats
+    fields = [
+        "Software Engineering",
+        "Artificial Intelligence",
+        "Scientific Computing",
+        "Robotics & Education"
+    ]
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Akira-Kim?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Akira-Kim?affiliations=OWNER&style=for-the-badge&label=Stars" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=Akira-Kim&style=for-the-badge&label=Views" alt="Views" />
-</p>
+    def build(self):
+        return "Turning ideas into technology."
+```
 
-<p align="center">
-  <img height="140" src="https://streak-stats.demolab.com/?user=Akira-Kim&theme=dark&hide_border=true" alt="Streak" />
-</p>
+I'm a developer and programming & robotics instructor passionate about technology, science and problem-solving.
 
-### Atividade dos últimos dias
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akira-Kim&theme=github-dark&hide_border=true&area=true&radius=16" alt="Activity graph" />
-</p>
+My interests lie at the intersection of **software development, artificial intelligence, mathematics and scientific applications**.
 
----
-
-## Formação
-
-- **Química** — UEMG (em andamento)  
-- **Técnico em Informática** — CEFET-MG  
-- Ciência da Computação — UFSJ (interrompido)
+I enjoy building projects, experimenting with new technologies and exploring how computational thinking can solve real-world problems.
 
 ---
 
-## Contato
+<h2 align="center">02 / TECHNOLOGY STACK</h2>
 
-[LinkedIn](https://www.linkedin.com/in/akira-bruno) · [GitHub](https://github.com/Akira-Kim)
+<div align="center">
 
-> *"A computação é uma ferramenta para explorar ideias; a matemática é uma linguagem para compreendê-las."*
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css&theme=dark" />
+
+<br/><br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite,arduino&theme=dark" />
+
+</div>
+
+---
+
+<h2 align="center">03 / FEATURED PROJECTS</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧠 Sexta-feira</h3>
+
+**Personal AI Assistant**
+
+Python-based assistant exploring conversational intelligence, persistent memory and intelligent interactions.
+
+<a href="https://github.com/Akira-Kim/Sexta-feira">Explore project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>⚙️ ProjetoOmega</h3>
+
+**AI & Software Development**
+
+A project involving Python, conversational systems and database-backed memory.
+
+<a href="https://github.com/Akira-Kim/ProjetoOmega">Explore project →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎮 Ctrl-Play</h3>
+
+**Educational Technology**
+
+Programming and game development projects focused on technological education.
+
+<a href="https://github.com/Akira-Kim/Ctrl-Play">Explore project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🌱 Smart Wood</h3>
+
+**Academic Project**
+
+A technical project developed during my computer technician studies.
+
+<a href="https://github.com/Akira-Kim/Smart_Wood">Explore project →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">04 / GITHUB ANALYTICS</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akira-Kim&show_icons=true&hide_border=true&bg_color=09090F&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira-Kim&layout=compact&hide_border=true&bg_color=09090F&title_color=A78BFA&text_color=CBD5E1" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Akira-Kim&theme=transparent&hide_border=true&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8" />
+
+</div>
+
+---
+
+<h2 align="center">05 / CONTRIBUTION ACTIVITY</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akira-Kim&bg_color=09090F&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/Akira-Kim/Akira-Kim/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
+<h2 align="center">06 / INTERESTS</h2>
+
+<div align="center">
+
+| Field | Interests |
+|:---|:---|
+| 🧠 AI | Intelligent systems and virtual assistants |
+| 🔬 Science | Computational simulations and mathematical modeling |
+| 🤖 Robotics | Automation and technological education |
+| 🎮 Development | Games and interactive applications |
+| 📚 Research | Interdisciplinary knowledge and innovation |
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>LET'S BUILD SOMETHING MEANINGFUL.</h2>
+
+*Technology is not just about writing code. It's about creating possibilities.*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Akira-Kim&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<sub>Designed & developed by Akira Kim · 2026</sub>
+
+</div>
