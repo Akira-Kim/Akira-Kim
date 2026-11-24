@@ -1,9 +1,10 @@
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:312E81,100:9333EA&height=230&section=header&text=AKIRA%20KIM&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPMENT%20%7C%20SCIENCE%20%7C%20TECHNOLOGY&descAlignY=60&descSize=15&animation=fadeIn" />
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Software+Developer+%7C+Desenvolvedora+de+Software;Programming+%26+Robotics+Instructor;Professora+de+Programa%C3%A7%C3%A3o+%26+Rob%C3%B3tica;Artificial+Intelligence+%26+Scientific+Computing;Intelig%C3%AAncia+Artificial+%26+Ci%C3%AAncia" alt="Bilingual typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Software+Developer+%7C+Desenvolvedora+de+Software;Programming+%26+Robotics+Instructor;Professora+de+Programa%C3%A7%C3%A3o+%26+Rob%C3%B3tica;Artificial+Intelligence+%26+Scientific+Computing;Intelig%C3%AAncia+Artificial+%26+Ci%C3%AAncia;Game+Development+with+Luau+%7C+Roblox+Studio" alt="Bilingual typing animation" />
 </a>
 
 <br/>
@@ -44,6 +45,7 @@ class Akira:
         "Software Engineering",
         "Artificial Intelligence",
         "Scientific Computing",
+        "Game Development",
         "Robotics & Education"
     ]
 
@@ -55,7 +57,7 @@ class Akira:
 
 I'm a software developer and programming & robotics instructor with a multidisciplinary background in technology and science.
 
-My interests lie at the intersection of **software development, artificial intelligence, mathematics and scientific applications**.
+My interests lie at the intersection of **software development, artificial intelligence, mathematics, scientific applications and game development**.
 
 I enjoy exploring new technologies, developing personal projects and transforming complex ideas into practical solutions.
 
@@ -63,7 +65,7 @@ I enjoy exploring new technologies, developing personal projects and transformin
 
 Sou desenvolvedora de software e professora de Programação e Robótica, com formação multidisciplinar nas áreas de tecnologia e ciências.
 
-Meus interesses estão na interseção entre **desenvolvimento de software, inteligência artificial, matemática e aplicações científicas**.
+Meus interesses estão na interseção entre **desenvolvimento de software, inteligência artificial, matemática, aplicações científicas e desenvolvimento de jogos**.
 
 Gosto de explorar novas tecnologias, desenvolver projetos próprios e transformar ideias complexas em soluções práticas.
 
@@ -75,13 +77,28 @@ Gosto de explorar novas tecnologias, desenvolver projetos próprios e transforma
 
 **Programming Languages • Linguagens de Programação**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,html,css&theme=dark" />
+
+<br/><br/>
+
+<a href="https://www.lua.org/">
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+</a>
+<a href="https://luau.org/">
+<img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
+</a>
 
 <br/><br/>
 
 **Tools & Platforms • Ferramentas e Plataformas**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite,arduino&theme=dark" />
+
+<br/><br/>
+
+<a href="https://create.roblox.com/">
+<img src="https://img.shields.io/badge/Roblox_Studio-Development-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+</a>
 
 </div>
 
@@ -118,10 +135,24 @@ Gosto de explorar novas tecnologias, desenvolver projetos próprios e transforma
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎮 Ctrl-Play</h3>
+<h3>🎮 Roblox Studio</h3>
+
+**Game Development | Desenvolvimento de Jogos**
+
+🇺🇸 Exploring game development with Luau, including player movement, traps, respawn systems and interactive mechanics.
+
+🇧🇷 Exploração do desenvolvimento de jogos com Luau, incluindo movimentação de jogadores, armadilhas, sistemas de respawn e mecânicas interativas.
+
+**Technology:** Luau • Roblox Studio
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🤖 Ctrl-Play</h3>
 
 **Educational Technology | Tecnologia Educacional**
 
@@ -132,6 +163,9 @@ Gosto de explorar novas tecnologias, desenvolver projetos próprios e transforma
 <a href="https://github.com/Akira-Kim/Ctrl-Play">Explore project • Ver projeto →</a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 <h3>🌱 Smart Wood</h3>
@@ -143,6 +177,17 @@ Gosto de explorar novas tecnologias, desenvolver projetos próprios e transforma
 🇧🇷 Projeto técnico desenvolvido durante minha formação em Informática.
 
 <a href="https://github.com/Akira-Kim/Smart_Wood">Explore project • Ver projeto →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🔬 Scientific Computing</h3>
+
+**Research & Development | Pesquisa e Desenvolvimento**
+
+🇺🇸 Exploring computational approaches to scientific problems, mathematical modeling and simulations.
+
+🇧🇷 Explorando abordagens computacionais para problemas científicos, modelagem matemática e simulações.
 
 </td>
 </tr>
@@ -191,7 +236,7 @@ Gosto de explorar novas tecnologias, desenvolver projetos próprios e transforma
 | 🧠 AI | Artificial Intelligence | Inteligência Artificial |
 | 🔬 Science | Scientific Computing | Computação Científica |
 | 🤖 Robotics | Automation & Education | Automação e Educação |
-| 🎮 Development | Games & Applications | Jogos e Aplicações |
+| 🎮 Development | Game Development & Applications | Desenvolvimento de Jogos e Aplicações |
 | 📚 Research | Interdisciplinary Research | Pesquisa Interdisciplinar |
 
 ---
