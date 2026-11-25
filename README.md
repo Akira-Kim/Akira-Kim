@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:312E81,100:9333EA&height=230&section=header&text=AKIRA%20KIM&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPMENT%20%7C%20SCIENCE%20%7C%20TECHNOLOGY&descAlignY=60&descSize=15&animation=fadeIn" />
 
@@ -141,13 +140,17 @@ Gosto de explorar novas tecnologias, desenvolver projetos próprios e transforma
 
 <h3>🎮 Roblox Studio</h3>
 
-**Game Development | Desenvolvimento de Jogos**
+**Game Development & Educational Technology | Desenvolvimento de Jogos e Tecnologia Educacional**
 
-🇺🇸 Exploring game development with Luau, including player movement, traps, respawn systems and interactive mechanics.
+🇺🇸 A hands-on game development project built with Roblox Studio and Luau. Features an obstacle course (Obby), player checkpoints, interactive traps, conveyor platforms, individual coin collection, an in-game shop and customizable player attributes.
 
-🇧🇷 Exploração do desenvolvimento de jogos com Luau, incluindo movimentação de jogadores, armadilhas, sistemas de respawn e mecânicas interativas.
+🇧🇷 Projeto prático de desenvolvimento de jogos utilizando Roblox Studio e Luau. Inclui um percurso de obstáculos (Obby), checkpoints, armadilhas interativas, esteiras, coleta individual de moedas, loja virtual e configurações personalizáveis do personagem.
 
-**Technology:** Luau • Roblox Studio
+**Technologies:** Roblox Studio • Luau • Game Mechanics • Scripting
+
+**Key Concepts:** Game Design • Event-Driven Programming • Player Systems • Educational Technology
+
+<a href="https://github.com/Akira-Kim/Ctrl-Play">Explore project • Explorar projeto →</a>
 
 </td>
 <td width="50%" valign="top">
