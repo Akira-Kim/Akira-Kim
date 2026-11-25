@@ -99,6 +99,14 @@ Gosto de explorar novas tecnologias, desenvolver projetos próprios e transforma
 <img src="https://img.shields.io/badge/Roblox_Studio-Development-000000?style=for-the-badge&logo=roblox&logoColor=white" />
 </a>
 
+<br/><br/>
+
+**Scientific Computing • Computação Científica**
+
+Mathematical Modeling • Computational Mathematics • Numerical Simulation
+
+Modelagem Matemática • Matemática Computacional • Simulação Numérica
+
 </div>
 
 ---
@@ -184,13 +192,19 @@ Gosto de explorar novas tecnologias, desenvolver projetos próprios e transforma
 </td>
 <td width="50%" valign="top">
 
-<h3>🔬 Scientific Computing</h3>
+<h3>🔬 Simulador de Bilhares Simpléticos</h3>
 
-**Research & Development | Pesquisa e Desenvolvimento**
+**Scientific Computing & Mathematical Simulation | Computação Científica e Simulação Matemática**
 
-🇺🇸 Exploring computational approaches to scientific problems, mathematical modeling and simulations.
+🇺🇸 An academic research and software development project focused on the computational simulation and visualization of **symplectic billiards**, exploring mathematical modeling and computational approaches to dynamical systems.
 
-🇧🇷 Explorando abordagens computacionais para problemas científicos, modelagem matemática e simulações.
+🇧🇷 Projeto acadêmico de pesquisa e desenvolvimento de software voltado à simulação computacional e visualização de **bilhares simpléticos**, explorando modelagem matemática e abordagens computacionais para sistemas dinâmicos.
+
+**Research Areas:** Scientific Computing • Computational Mathematics • Mathematical Modeling
+
+**Part of:** ProjetoOmega
+
+<a href="https://github.com/Akira-Kim/ProjetoOmega/tree/main/SimuladorBilharesSimpleticos">Explore project • Explorar projeto →</a>
 
 </td>
 </tr>
@@ -204,7 +218,7 @@ Gosto de explorar novas tecnologias, desenvolver projetos próprios e transforma
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akira-Kim&show_icons=true&hide_border=true&bg_color=09090F&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira-Kim&layout=compact&hide_border=true&bg_color=09090F&title_color=A78BFA&text_color=CBD5E1" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akira-Kim&layout=compact&langs_count=10&hide_border=true&bg_color=09090F&title_color=A78BFA&text_color=CBD5E1" />
 
 <br/><br/>
 
